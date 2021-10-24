@@ -1,13 +1,10 @@
 <template>
   <div id="app">
-    
     <router-view />
   </div>
 </template>
 
 <style lang="scss">
-@import "@/global-styles/colors.scss";
-
 body {
   background-color: $dark_blue;
 }
